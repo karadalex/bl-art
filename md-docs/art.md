@@ -1,0 +1,1 @@
+**bl-art**'s main goal is to combat fraud in art and luxury products.
