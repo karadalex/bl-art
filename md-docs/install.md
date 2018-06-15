@@ -7,3 +7,12 @@ decentralized technologies.
 - Ethereum: Blockchain framework and platform
 - BigChainDB
 - IPFS
+
+
+## Requirements
+
+- NodeJs
+- Yarn
+- truffle
+- Ganache
+- Gatsby
