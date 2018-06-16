@@ -2,7 +2,7 @@ bl-art
 =========
 
 <p align="center">
-  <img src="logo.png" width="60%"/>
+  <img src="https://raw.githubusercontent.com/karadalex/bl-art/master/logo.png" width="60%"/>
 </p>
 
 - **bl-art** is a blockchain solution for the industry of Art and luxury goods. 

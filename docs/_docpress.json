@@ -1,0 +1,87 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "bl-art Overview",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Installation",
+        "source": "md-docs/install.md",
+        "url": "install.html",
+        "slug": "install",
+        "headings": [
+          {
+            "title": "Technologies used",
+            "depth": 2,
+            "id": "technologies-used"
+          },
+          {
+            "title": "Requirements",
+            "depth": 2,
+            "id": "requirements"
+          }
+        ]
+      },
+      {
+        "title": "Architecture",
+        "source": "md-docs/architecture.md",
+        "url": "architecture.html",
+        "slug": "architecture"
+      },
+      {
+        "title": "Blockchain for Art",
+        "source": "md-docs/art.md",
+        "url": "art.html",
+        "slug": "art"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "bl-art Overview",
+      "pageTitle": "bl-art Overview",
+      "slug": "index"
+    },
+    "install.html": {
+      "source": "md-docs/install.md",
+      "title": "Installation - bl-art Overview",
+      "pageTitle": "Installation",
+      "slug": "install",
+      "headings": [
+        {
+          "title": "Technologies used",
+          "depth": 2,
+          "id": "technologies-used"
+        },
+        {
+          "title": "Requirements",
+          "depth": 2,
+          "id": "requirements"
+        }
+      ]
+    },
+    "architecture.html": {
+      "source": "md-docs/architecture.md",
+      "title": "Architecture - bl-art Overview",
+      "pageTitle": "Architecture",
+      "slug": "architecture"
+    },
+    "art.html": {
+      "source": "md-docs/art.md",
+      "title": "Blockchain for Art - bl-art Overview",
+      "pageTitle": "Blockchain for Art",
+      "slug": "art"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "md-docs/install.md": "install.html",
+    "md-docs/architecture.md": "architecture.html",
+    "md-docs/art.md": "art.html",
+    "md-docs/style.css": "style.css"
+  }
+}
