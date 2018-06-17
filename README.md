@@ -16,3 +16,9 @@ a class of unique tokens.
 
 - Technology Stack: <br>
 **Ethereum** + **BigchainDB** + **IPFS** + **GatsbyJS** (React Static PWA)
+
+## Disclaimer
+
+This is an experimental project for educational purposes only. It is not audited
+and must not be used in production, on the Ethereum main network, where real 
+money is involved!
