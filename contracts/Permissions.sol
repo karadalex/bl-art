@@ -57,4 +57,9 @@ contract Permissions is Ownable {
         _;
     }
 
+    modifier onlyNotOwner() {
+        require(msg.sender != owner);
+        _;
+    }
+
 }
